@@ -1,8 +1,8 @@
 {
-  brands: [
+  "brands": [
     {
-      id: 1,
-      name: 'Brastemp'
+      "id": 1,
+      "name": "Brastemp"
     }
   ]
 }
