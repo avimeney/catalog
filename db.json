@@ -1,8 +1,11 @@
 {
-  "brands": [
+  "posts": [
     {
       "id": 1,
-      "name": "Brastemp"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
